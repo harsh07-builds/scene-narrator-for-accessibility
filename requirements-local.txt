@@ -1,0 +1,4 @@
+# Extras for desktop live narration with spoken audio (python -m app.live).
+# Not needed on servers — the deployed frontend speaks via the browser.
+-r requirements.txt
+pyttsx3>=2.90
